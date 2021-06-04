@@ -1,5 +1,8 @@
 # cliffhangers
 
+## In short 
+<img src="https://github.com/Boltuzamaki/NC_SVCE_MK199_CliffHangers-1/blob/master/images/SIH.gif" width="600" height="400" />
+
 ## How to run it?
 
   * Download and install Python 3.7
